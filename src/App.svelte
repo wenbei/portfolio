@@ -3,20 +3,20 @@
 
 <header>
   <nav class="flex">
-    <div>Home</div>
-    <div>Projects</div>
+    <!-- <div>Home</div> -->
+    <!-- <div>Projects</div> -->
   </nav>
 </header>
 
 <main>
-  <h1>Hello!</h1>
+  <h1>Hi Connor! Hi Mitul! :D</h1>
 
-  <article>
+  <!-- <article>
     <h2>Article</h2>
     <section>
       <h3>Section</h3>
     </section>
-  </article>
+  </article> -->
 </main>
 
 <style global lang="postcss">
